@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MintyRoma, I'm actualy student of TSU, Tula, Russia (If be honest I'm student of college of university)
-- 👀 Actualy I'm working in datacenter and I interested in networks, hardware, servers etc. (Shhhhhh... If you have some unused servers or network hardware - please contact me)
-- 🌱 I’m currently learning C#, Java... Yes I like this PLs.
-- 📫 How to reach me? Please give me holidays!
+- 👋 Hi, I’m @MintyRoma, Now I'm student of TSU, Tula, Russia (If be honest I'm student of college of university)
+- 👀 Also I'm working in datacenter and I interested in networks, hardware, servers etc. (Shhhhhh... If you have some unused servers or network hardware - please contact me)
+- 🌱 I’m currently learning C#, Java... Yes I like this PLs. And sometimes I should to code on PHP, C++ and etc. Not so interesting.
+- 📫 How to reach me? Emmmmmmm... Contact please via VK (vk.com/minty_r)
+- And something more about me - I very LOOOOOOOVEEEEEEE to sleep. Did you ever try to sleep more then 14 hours? I did it and it was unforgettable.
