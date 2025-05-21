@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @MintyRoma, I'd studied in Tula State Technical College named S.I.Mosina of Tula State University (TGTK TSU). Right now I'm student of Moscow Institute of Radio Electronics & Automatization of Russian Technology University (MIREA RTU). 
-- 👀 Right now I'm working as data center operations engineer for a large telecom company.
-- 🌱 I’m currently learning C#, Java... Yes I like that PLs. And sometimes I should to code on PHP, C++ and etc. Not so interesting.
-- 🐳 Also I have my own homelab project with pet-projects
-- 📫 How to reach me? Emmmmmmm... Contact please via TG (https://t.me/MintyR)
-- And something more about me - I very LOOOVE to sleep. Did you ever try to sleep more then 14 hours? I did it and it was unforgettable.
+- 👋 Hi, I’m @MintyRoma!
+ 
+- 🎓 I studied at Tula State Technical College named after S.I. Mosin, a branch of Tula State University (TGTK TSU). Currently, I'm a student at the Moscow Institute of Radio Engineering and Automation, part of the Russian Technological University (MIREA RTU).
+
+- 💼 I'm currently working as a Data Center Operations Engineer at Moscow City Telephone Network (MGTS).
+
+- 💻 I enjoy coding in C#, and occasionally work with Python, Java, TypeScript, C++, and PHP — though I wouldn’t call myself a full-time developer.
+
+- 🐳 I'm running a personal homelab with several pet projects — always experimenting and learning!  
+  [![UNICORNS - GROUP](https://img.shields.io/static/v1?label=UNICORNS&message=GROUP&color=1d1282&style=for-the-badge&labelColor=000000)](https://unicorns-group.ru)
+
+- 📫 Want to get in touch? Feel free to reach out via Telegram:  
+  [![Telegram](https://img.shields.io/badge/Telegram-%40MintyR-2ea6e8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/MintyR)
+
+- 🛌 Fun fact: I *love* sleeping.  
+  Have you ever slept for more than 14 hours? I have — and it was unforgettable.
