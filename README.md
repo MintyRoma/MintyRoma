@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MintyRoma!
  
-- 🎓 I studied at Tula State Technical College named after S.I. Mosin, a branch of Tula State University (TGTK TSU). Currently, I'm a student at the Moscow Institute of Radio Engineering and Automation, part of the Russian Technological University (MIREA RTU).
+- 🎓 I studied at Tula State Technical College named after S.I. Mosin, a branch of Tula State University (TGTK TSU) and at the Moscow Institute of Radio Engineering and Automation, part of the Russian Technological University (MIREA RTU).
 
-- 💼 I'm currently working as a Data Center Operations Engineer at Moscow City Telephone Network (MGTS).
+- 💼 I'm currently working as a Leading Infrastructure Engineer at Moscow City Telephone Network (MGTS).
 
 - 💻 I enjoy coding in C#, and occasionally work with Python, Java, TypeScript, C++, and PHP — though I wouldn’t call myself a full-time developer.
 
